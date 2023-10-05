@@ -10,5 +10,5 @@ namespace Zamilov_T_R_Project_3_30_09_23
     {
         static void Main(string[] args)
         {
-            
+          
         }
